@@ -6,7 +6,7 @@ def sum_(a1,b1):
     b1.reverse()
     print(a1)
     print(b1)
-    print(n, '_________________')
+    print(n, '_____ ____________')
     for i in range(n):
         print(a1[i])
 
